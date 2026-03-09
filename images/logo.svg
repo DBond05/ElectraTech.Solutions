@@ -17,7 +17,7 @@
   <!-- Company name -->
   <text x="75" y="48"
         font-family="Inter, Arial, sans-serif"
-        font-size="30"
+        font-size="22"
         fill="#F8FAFC"
         font-weight="600">
         ElectraTech AI
